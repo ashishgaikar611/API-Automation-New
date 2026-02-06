@@ -12,8 +12,10 @@ public class AddPlace {
 	private String language;
 	private Location location;
 	private List<String> types;
+	private String abc;
 	
 	
+
 	public int getAccuracy() {
 		return accuracy;
 	}
